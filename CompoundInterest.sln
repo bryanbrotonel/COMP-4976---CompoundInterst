@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompoundInterest", "CompoundInterest\CompoundInterest.csproj", "{C269E8CA-4483-4BD9-8FF8-AF3EAF1998FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompoundInterestLibrary", "CompoundInterestLibrary\CompoundInterestLibrary.csproj", "{40AE8B7A-C0C1-49CE-810B-7F12B29B8360}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AA321A23-FBF3-484E-96A0-44218C581409}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C269E8CA-4483-4BD9-8FF8-AF3EAF1998FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C269E8CA-4483-4BD9-8FF8-AF3EAF1998FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C269E8CA-4483-4BD9-8FF8-AF3EAF1998FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C269E8CA-4483-4BD9-8FF8-AF3EAF1998FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40AE8B7A-C0C1-49CE-810B-7F12B29B8360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AE8B7A-C0C1-49CE-810B-7F12B29B8360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AE8B7A-C0C1-49CE-810B-7F12B29B8360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AE8B7A-C0C1-49CE-810B-7F12B29B8360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40307FB3-82E7-4963-BA10-BAEBF09B04A1}
+	EndGlobalSection
+EndGlobal
